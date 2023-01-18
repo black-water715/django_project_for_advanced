@@ -1,0 +1,2 @@
+# django_project_for_advanced
+django_project_for_advanced
